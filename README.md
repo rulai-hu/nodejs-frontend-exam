@@ -6,11 +6,12 @@ Create a `table` component in React following provided design:
 Figma Wireframe: Please view this [link](https://www.figma.com/file/3ln9zkE3xcwryT1JCKeCT1/Frontend-exam-1?node-id=0%3A1)
 
 ## Specifications
-You do not have to create an api. Please implement your own data structure as a constant. 
+1. Do not create an api. Implement your data structure as a constant.
+1. Please `console.log` your state when there is an update (eq. checkboxes)
 
 ## Bonus
-1. hooks
-1. eslint/prettier
+1. Hooks
+1. Tideness
 1. CSS library of your choice 
 
 -------------------------------------------------------------------
