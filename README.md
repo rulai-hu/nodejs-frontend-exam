@@ -1,5 +1,16 @@
+# Node.js Frontend Exam / Table Component
+
+## Goal
+Create a `table` component in React following provided design:
+
 Figma Wireframe: Please view this [link](https://www.figma.com/file/3ln9zkE3xcwryT1JCKeCT1/Frontend-exam-1?node-id=0%3A1)
 
+## Specifications
+You do not have to create an api. Please implement your own data structure as a constant. 
+
+## Bonus
+1. eslint/prettier
+1. CSS library of your choice 
 
 -------------------------------------------------------------------
 
