@@ -9,6 +9,7 @@ Figma Wireframe: Please view this [link](https://www.figma.com/file/3ln9zkE3xcwr
 You do not have to create an api. Please implement your own data structure as a constant. 
 
 ## Bonus
+1. hooks
 1. eslint/prettier
 1. CSS library of your choice 
 
