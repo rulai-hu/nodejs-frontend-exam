@@ -11,7 +11,7 @@ Figma Wireframe: Please view this [link](https://www.figma.com/file/3ln9zkE3xcwr
 
 ## Bonus
 1. Hooks
-1. Tideness
+1. Tidiness
 1. CSS library of your choice 
 
 -------------------------------------------------------------------
