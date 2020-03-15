@@ -1,0 +1,16 @@
+.app-table {
+    background-color: white;
+    padding: 40px 25px 60px 25px;
+}
+
+.app-table-wrapper {
+    width: 550px;
+    margin: 0 auto;
+}
+
+.app-table-wrapper > p {
+    font-size: 11px;
+    font-weight: normal;
+    color: #666;
+    margin-bottom: 2px;
+}
