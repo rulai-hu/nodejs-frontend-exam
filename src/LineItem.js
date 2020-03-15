@@ -2,10 +2,6 @@ import React from 'react'
 import './LineItem.css'
 
 class LineItem extends React.Component {
-    constructor(props) {
-        super(props)
-    }
-
     render() {
         return (
             <div className="line-item-wrapper">
@@ -14,15 +10,15 @@ class LineItem extends React.Component {
                     <div className="line-item-flex-container">
                         <span>{this.props.value}</span>
 
-                        <label class="line-item-checkbox-wrapper">
-                            <input type="checkbox" />
-                            <div class="line-item-chk"></div>
+                        <label className="line-item-checkbox-wrapper">
+                            <input onClick={this.props.onCheck} type="checkbox" />
+                            <div className="line-item-chk"></div>
                         </label>
                     </div>
                 </div>
                 {this.props.children}
             </div>
-        )
+        );
     }
 }
 
